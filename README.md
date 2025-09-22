@@ -59,5 +59,5 @@ Make sure you have the following libraries installed:
   ```
 
 ## Deployed Link
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen?logo=streamlit)](https://finscopeapp.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen?logo=streamlit)](https://finscope-myapp.streamlit.app/)
 
